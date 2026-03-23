@@ -1,0 +1,18 @@
+# Credenciales
+ai-dep-30-kevin-inofuente-f5471c9be024.json
+
+# Variables de entorno
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# LangGraph
+.langgraph_api/
